@@ -1,0 +1,9 @@
+# =============================================
+# = Google Recaptcha configurations
+# = https://www.google.com/recaptcha/admin#list
+# =============================================
+google:
+  recaptcha:
+    url: https://www.google.com/recaptcha/api/siteverify
+    key: 6LfL7qMUAAAAAEpCOU9eX_1WRevwMa38bivJQ60e
+    secret: 6LfL7qMUAAAAAPvuWo09CNjJvvuFD6BQMRQSusuj
